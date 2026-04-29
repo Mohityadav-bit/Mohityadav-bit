@@ -8,28 +8,6 @@ I see technology as more than just tools — it's a way to solve real problems a
 
 ---
 
-### 🚀 Current Journey  
-- 🔭 Building strong foundations in **Web Development & DSA**  
-- 🌱 Exploring **System Design (HDL)**  
-- 🧠 Diving into **Machine Learning & AI concepts**  
-- ☁️ Getting started with **Cloud & scalable systems**  
-
----
-
-### 🤝 Open For  
-- 👯 Collaboration on **real-world projects & innovative ideas**  
-- 🤝 Learning from others in **ML, backend systems & system design**  
-- 💬 Discussions about **tech, design thinking & problem solving**  
-
----
-
-### 🎯 Long-Term Vision  
-To grow into a developer who can build **intelligent systems** that combine **software engineering + AI** to solve real-world challenges.
-
----
-
-### ⚡ Beyond Code  
-I enjoy mixing **design with development**, because great products are not just built — they are *experienced*.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/1406333505977450526/1406333505977450528) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohit-yadav-68b922305/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohityadav470101@gmail.com) 
@@ -56,17 +34,11 @@ I enjoy mixing **design with development**, because great products are not just 
 # CI/CD VCS
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Mohityadav-bit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Mohityadav-bit&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mohityadav-bit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ⚡ Beyond Code  
+I enjoy mixing **design with development**, because great products are not just built — they are *experienced*.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mohityadav-bit&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Mohityadav-bit&icon=4&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
